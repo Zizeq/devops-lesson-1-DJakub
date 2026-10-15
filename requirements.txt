@@ -1,2 +1,5 @@
 pytest
-samira_plus_rell_na_bocie
+#samira_plus_rell_na_bocie
+#ERROR: Could not find a version that satisfies the requirement samira_plus_rell_na_bocie (from versions: none)
+#ERROR: No matching distribution found for samira_plus_rell_na_bocie
+#Error: Process completed with exit code 1.
